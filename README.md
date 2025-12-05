@@ -1,3 +1,2 @@
-## ▶ Play The Game
-
+## ▶ Play The Game  
 [Click here to play the game](https://aakashbhartiya25.github.io/Gaming-portal/game/index.html)
